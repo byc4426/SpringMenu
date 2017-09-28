@@ -1,4 +1,4 @@
-# JPSpringMenu
+# SpringMenu
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-JPSpringMenu-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6240)
  [ ![Download](https://api.bintray.com/packages/peng83508440/maven/jpspringmenu/images/download.svg) ](https://bintray.com/peng83508440/maven/jpspringmenu/_latestVersion)
 [![apm](https://img.shields.io/apm/l/vim-mode.svg)]()
