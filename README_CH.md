@@ -8,7 +8,7 @@ SpringMenu是一款滑动菜单,类似AndroidResidemenu,SlidingMenu,和其他滑
 [Rebound](https://github.com/facebook/rebound) 
 
 ## Design Sketch
-![SpringMenu](https://github.com/peng8350/JPSpringMenu/blob/master/art/main.gif)
+![SpringMenu](https://github.com/byc4426/SpringMenu/blob/master/art/main.gif)
 <br>
 ## Usage
 ### Gradle 
